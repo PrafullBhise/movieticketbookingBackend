@@ -4,6 +4,8 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 public class BookingRequest {
+	
+	
     private Long movieId;
     private Long theaterId;
     private LocalDateTime bookingTime;
